@@ -11,7 +11,7 @@ assignees: Laska-skei, Quickness19
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Add detailed steps on how to reproduce this bug.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
